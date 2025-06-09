@@ -16,6 +16,8 @@
 /readme.html
 /wp-*.php
 /xmlrpc.php
+/.idea
+/.cursorrules
 
 # Configuration
 wp-config.php
